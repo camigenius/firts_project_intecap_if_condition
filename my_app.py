@@ -11,7 +11,7 @@ st.set_page_config(
 
 
 
-st.title("My Primera Aplicación *Piedra Papel o Tijeras!*")
+st.title("Mi Primera Aplicación *Piedra Papel o Tijeras!*")
 
 options = ['Piedra', 'Papel', 'Tijeras']
 
